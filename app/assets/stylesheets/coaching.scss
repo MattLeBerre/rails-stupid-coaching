@@ -1,0 +1,27 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.question_answer{
+  flex: 0 0 auto;
+  padding-top: 50px;
+  border-left: 3px solid grey;
+}
+
+.answer{
+
+}
+
+.speaker{
+  font-size: 20px;
+  color:grey;
+}
+
+.link{
+  flex: 0 0 auto;
+}
